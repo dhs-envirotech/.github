@@ -1,4 +1,4 @@
-# DHS - Enviornmental Technology
+# DHS - Environmental Technology
 
 This is the organization for Dublin High School's Environmental Technology club.
 
